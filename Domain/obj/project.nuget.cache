@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xsbvnGLUGiIgOEZ8pI4SL3YU8xf1DVFmIWtTP/3vuR3zMCdf+MXN2C2o1p7r3RwvfG5iLDwQa5osvYqaszCL1w==",
+  "success": true,
+  "projectFilePath": "D:\\ASP .NET Core\\SalesStoresPurchasesManagement\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
