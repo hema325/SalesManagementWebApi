@@ -18,11 +18,11 @@ namespace WebApi.Filters
 
             if(errors == null)
             {
-                context.Result = new BadRequestObjectResult(new { Status = status, Message = message }) { StatusCode = status };
+                context.Result = new ObjectResult(new { Status = status, Message = message }) { StatusCode = status };
                 return;
             }
 
-            context.Result = new BadRequestObjectResult(new { Status = status, Message = message, Errors = errors }) { StatusCode = status };
+            context.Result = new ObjectResult(new { Status = status, Message = message, Errors = errors }) { StatusCode = status };
         }
 
     }

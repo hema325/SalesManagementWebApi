@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "lAVsf4/XP8OL4a3UKcpKodesbBfBaGYqErDYy8hI7Xs=",
+  "Hash": "Fz7RfTaRj5tUEuvQ8LPuA3Ln8/2yZ7oKq/+t92anuQ0=",
   "Source": "WebApi",
   "BasePath": "_content/WebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi\\wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "D:\\ASP .NET Core\\SalesStoresPurchasesManagement\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

@@ -101,3 +101,4 @@ D:\ASP .NET Core\SalesStoresPurchasesManagement\WebApi\bin\Debug\net7.0\Irony.dl
 D:\ASP .NET Core\SalesStoresPurchasesManagement\WebApi\bin\Debug\net7.0\SixLabors.Fonts.dll
 D:\ASP .NET Core\SalesStoresPurchasesManagement\WebApi\bin\Debug\net7.0\System.IO.Packaging.dll
 D:\ASP .NET Core\SalesStoresPurchasesManagement\WebApi\bin\Debug\net7.0\XLParser.dll
+D:\ASP .NET Core\SalesStoresPurchasesManagement\WebApi\bin\Debug\net7.0\WebApi.staticwebassets.runtime.json
